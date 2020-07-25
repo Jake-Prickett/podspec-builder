@@ -18,6 +18,7 @@ TODO:
 - [ ] Add support for SwiftPM (swift package dump-package)
 - [ ] CI Integration
 - [ ] Unit test coverage
+- [ ] Command line tool vs. script
 
 ## Usage
 ```python
